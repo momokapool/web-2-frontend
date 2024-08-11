@@ -1,4 +1,4 @@
-const backendDomain = 'http://localhost:8123'
+const backendDomain = 'https://web-2-backend-btpd.onrender.com'
 
 const summaryAPI = {
     signUp : {
